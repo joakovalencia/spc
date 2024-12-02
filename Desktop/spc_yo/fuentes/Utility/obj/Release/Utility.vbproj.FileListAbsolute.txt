@@ -1,0 +1,8 @@
+C:\Users\alexi.rodriguez\Documents\Visual Studio 2010\Projects\WebSPC_V3.0\Utility\bin\Release\PYC.Utilities.dll
+C:\Users\alexi.rodriguez\Documents\Visual Studio 2010\Projects\WebSPC_V3.0\Utility\bin\Release\PYC.Utilities.pdb
+C:\Users\alexi.rodriguez\Documents\Visual Studio 2010\Projects\WebSPC_V3.0\Utility\bin\Release\PYC.Utilities.xml
+C:\Users\alexi.rodriguez\Documents\Visual Studio 2010\Projects\WebSPC_V3.0\Utility\obj\Release\PYC.Utilities.Resources.resources
+C:\Users\alexi.rodriguez\Documents\Visual Studio 2010\Projects\WebSPC_V3.0\Utility\obj\Release\Utility.vbproj.GenerateResource.Cache
+C:\Users\alexi.rodriguez\Documents\Visual Studio 2010\Projects\WebSPC_V3.0\Utility\obj\Release\PYC.Utilities.dll
+C:\Users\alexi.rodriguez\Documents\Visual Studio 2010\Projects\WebSPC_V3.0\Utility\obj\Release\PYC.Utilities.xml
+C:\Users\alexi.rodriguez\Documents\Visual Studio 2010\Projects\WebSPC_V3.0\Utility\obj\Release\PYC.Utilities.pdb

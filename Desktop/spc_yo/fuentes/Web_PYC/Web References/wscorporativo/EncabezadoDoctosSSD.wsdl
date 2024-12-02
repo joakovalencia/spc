@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="encabezadoDoctosSSD">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="NroProceso" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="encabezadoDoctosSSDResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="encabezadoDoctosSSDResult" type="tns:ArrayOfEncabezadoDoctos" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfEncabezadoDoctos">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="encabezadoDoctos" nillable="true" type="tns:encabezadoDoctos" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="encabezadoDoctos">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_NRODOC" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_FECHADOC" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_COPIA_INFORMATIVA" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_REGION_ORIGEN" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_USUARIO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_MATERIA" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_IDENT" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOCTRAMITE" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_FUNCIONARIO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_NROINTERNO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_OBS" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SERVICIO_ORIGEN" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_PLAZO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_ESTADO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_DATOS_ADICIONALES_REMITENT" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_DATOS_ADICIONALES_DESTINAT" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_PREPARADO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="COD_GASTO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOP_NROOP" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOP_ARCHIVADO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOP_FECHAING" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOP_FECHADESP" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOP_TIPO_ORIGEN" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOP_HORADESP" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOP_REFERENCIA" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOP_REFERENCIA_2" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOP_HORAING" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOP_LOTES" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ORI_NOMBRE" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DESTINO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ORI_PRE_DES" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="REGION" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ACC_DESCRIPCION" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TDOC_DESCRIP" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="documentosAdjuntosSSD">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="NroProceso" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="documentosAdjuntosSSDResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="documentosAdjuntosSSDResult" type="tns:ArrayOfDatosDoctos" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfDatosDoctos">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="datosDoctos" nillable="true" type="tns:datosDoctos" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="datosDoctos">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="IMG_FILE_NAME" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="IMG_SIZE" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="IMG_USUARIO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="IMG_FECHA" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="IMG_HORA" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="IMG_CORR" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="IMG_DESCRIP" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_IDENT" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="IMG_EXTENSION" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="URL" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="insertarProcesoSSD">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CODIGO_SERVICIO_SOLICITANTE" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="CODIGO_TIPO_DOCUMENTO" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="CODIGO_ACCION" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="REGION_ORIGEN_DOCUMENTO" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="ANNO_DOCUMENTO" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="FECHA_DOCUMENTO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="CODIGO_ORIGEN" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="MATERIA_DOCUMENTO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="CODIGO_DESTINO" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="NRO_INTERNO_DOCUMENTO" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="TRAMITE_DOCUMENTO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="CORREO_USUARIO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="NOMBRE_FUNCIONARIO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="OBSERVACIONES_DOCUMENTO" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="PLAZO_DOCUMENTO" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="DATOS_ADICIONALES_REMITENTE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="DATOS_ADICIONALES_DESTINO" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="REFERENCIA" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="CODIGO_TIPO_DOCUMENTO_" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertarProcesoSSDResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="insertarProcesoSSDResult" type="tns:ArrayOfIngresarDocto" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfIngresarDocto">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ingresarDocto" nillable="true" type="tns:ingresarDocto" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ingresarDocto">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SER_CODIGO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="TDOC_CODIGO" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="ACC_CODIGO" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="DOC_REGION_ORIGEN" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="DOC_ANODOC" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_FECHADOC" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_ORIGEN" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_MATERIA" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_DESTINO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DOC_NROINTERNO" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_TRAMITE" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_USUARIO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_FUNCIONARIO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_OBS" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DOC_PLAZO" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_DATOS_ADIC_REM" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DOC_DATOS_ADIC_DES" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DOC_REFERENCIA_1" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="TIPO" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="encabezadoDoctosSSDSoapIn">
+    <wsdl:part name="parameters" element="tns:encabezadoDoctosSSD" />
+  </wsdl:message>
+  <wsdl:message name="encabezadoDoctosSSDSoapOut">
+    <wsdl:part name="parameters" element="tns:encabezadoDoctosSSDResponse" />
+  </wsdl:message>
+  <wsdl:message name="documentosAdjuntosSSDSoapIn">
+    <wsdl:part name="parameters" element="tns:documentosAdjuntosSSD" />
+  </wsdl:message>
+  <wsdl:message name="documentosAdjuntosSSDSoapOut">
+    <wsdl:part name="parameters" element="tns:documentosAdjuntosSSDResponse" />
+  </wsdl:message>
+  <wsdl:message name="insertarProcesoSSDSoapIn">
+    <wsdl:part name="parameters" element="tns:insertarProcesoSSD" />
+  </wsdl:message>
+  <wsdl:message name="insertarProcesoSSDSoapOut">
+    <wsdl:part name="parameters" element="tns:insertarProcesoSSDResponse" />
+  </wsdl:message>
+  <wsdl:portType name="EncabezadoDoccumentosSSDSoap">
+    <wsdl:operation name="encabezadoDoctosSSD">
+      <wsdl:input message="tns:encabezadoDoctosSSDSoapIn" />
+      <wsdl:output message="tns:encabezadoDoctosSSDSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="documentosAdjuntosSSD">
+      <wsdl:input message="tns:documentosAdjuntosSSDSoapIn" />
+      <wsdl:output message="tns:documentosAdjuntosSSDSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="insertarProcesoSSD">
+      <wsdl:input message="tns:insertarProcesoSSDSoapIn" />
+      <wsdl:output message="tns:insertarProcesoSSDSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="EncabezadoDoccumentosSSDSoap" type="tns:EncabezadoDoccumentosSSDSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="encabezadoDoctosSSD">
+      <soap:operation soapAction="http://tempuri.org/encabezadoDoctosSSD" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="documentosAdjuntosSSD">
+      <soap:operation soapAction="http://tempuri.org/documentosAdjuntosSSD" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertarProcesoSSD">
+      <soap:operation soapAction="http://tempuri.org/insertarProcesoSSD" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="EncabezadoDoccumentosSSDSoap12" type="tns:EncabezadoDoccumentosSSDSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="encabezadoDoctosSSD">
+      <soap12:operation soapAction="http://tempuri.org/encabezadoDoctosSSD" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="documentosAdjuntosSSD">
+      <soap12:operation soapAction="http://tempuri.org/documentosAdjuntosSSD" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertarProcesoSSD">
+      <soap12:operation soapAction="http://tempuri.org/insertarProcesoSSD" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="EncabezadoDoccumentosSSD">
+    <wsdl:port name="EncabezadoDoccumentosSSDSoap" binding="tns:EncabezadoDoccumentosSSDSoap">
+      <soap:address location="http://wscorporativo.sdit.cl/documentos/ssd/EncabezadoDoctosSSD.asmx" />
+    </wsdl:port>
+    <wsdl:port name="EncabezadoDoccumentosSSDSoap12" binding="tns:EncabezadoDoccumentosSSDSoap12">
+      <soap12:address location="http://wscorporativo.sdit.cl/documentos/ssd/EncabezadoDoctosSSD.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

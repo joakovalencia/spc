@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D81F730-CB33-4E96-82AC-65688A276739}|WS_PYC\\WSSPC.vbproj|C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\ws_pyc\\wsspc.asmx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8D81F730-CB33-4E96-82AC-65688A276739}|WS_PYC\\WSSPC.vbproj|solutionrelative:ws_pyc\\wsspc.asmx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9C67AD-FB6A-4403-BD8B-8F8A087D1FAF}|C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Web_PYC|c:\\users\\joaquin.valencia\\desktop\\spc_yo\\fuentes\\web_pyc\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9C67AD-FB6A-4403-BD8B-8F8A087D1FAF}|C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Web_PYC|solutionrelative:web_pyc\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9C67AD-FB6A-4403-BD8B-8F8A087D1FAF}|C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Web_PYC|C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\web_pyc\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB9C67AD-FB6A-4403-BD8B-8F8A087D1FAF}|C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Web_PYC|solutionrelative:web_pyc\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9C67AD-FB6A-4403-BD8B-8F8A087D1FAF}|C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Web_PYC|C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\web_pyc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB9C67AD-FB6A-4403-BD8B-8F8A087D1FAF}|C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Web_PYC|solutionrelative:web_pyc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9C67AD-FB6A-4403-BD8B-8F8A087D1FAF}|C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Web_PYC|C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\web_pyc\\proyectos\\mn_edi_proyectos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9C67AD-FB6A-4403-BD8B-8F8A087D1FAF}|C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Web_PYC|solutionrelative:web_pyc\\proyectos\\mn_edi_proyectos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D81F730-CB33-4E96-82AC-65688A276739}|WS_PYC\\WSSPC.vbproj|C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\ws_pyc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D81F730-CB33-4E96-82AC-65688A276739}|WS_PYC\\WSSPC.vbproj|solutionrelative:ws_pyc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9C67AD-FB6A-4403-BD8B-8F8A087D1FAF}|C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Web_PYC|C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\web_pyc\\css\\globalstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AB9C67AD-FB6A-4403-BD8B-8F8A087D1FAF}|C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Web_PYC|solutionrelative:web_pyc\\css\\globalstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59392816-BC5D-4225-9E74-E4D5FAA42E7F}|Utility\\Utility.vbproj|C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\utility\\dataaccess\\accesslayer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{59392816-BC5D-4225-9E74-E4D5FAA42E7F}|Utility\\Utility.vbproj|solutionrelative:utility\\dataaccess\\accesslayer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccessLayer.vb",
+              "DocumentMoniker": "C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Utility\\DataAccess\\AccessLayer.vb",
+              "RelativeDocumentMoniker": "Utility\\DataAccess\\AccessLayer.vb",
+              "ToolTip": "C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Utility\\DataAccess\\AccessLayer.vb",
+              "RelativeToolTip": "Utility\\DataAccess\\AccessLayer.vb",
+              "ViewState": "AgIAANEVAAAAAAAAAAAqwN8VAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-27T13:21:23.762Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mn_edi_proyectos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Web_PYC\\proyectos\\mn_edi_proyectos.aspx.cs",
+              "RelativeDocumentMoniker": "Web_PYC\\proyectos\\mn_edi_proyectos.aspx.cs",
+              "ToolTip": "C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Web_PYC\\proyectos\\mn_edi_proyectos.aspx.cs",
+              "RelativeToolTip": "Web_PYC\\proyectos\\mn_edi_proyectos.aspx.cs",
+              "ViewState": "AgIAAMkCAAAAAAAAAAAqwLADAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:21:08.1Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WSSPC.asmx.vb",
+              "DocumentMoniker": "C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\WS_PYC\\WSSPC.asmx.vb",
+              "RelativeDocumentMoniker": "WS_PYC\\WSSPC.asmx.vb",
+              "ToolTip": "C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\WS_PYC\\WSSPC.asmx.vb",
+              "RelativeToolTip": "WS_PYC\\WSSPC.asmx.vb",
+              "ViewState": "AgIAAA0YAAAAAAAAAAAUwEAYAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-27T17:06:09.004Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.Config",
+              "DocumentMoniker": "C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Web_PYC\\Web.Config",
+              "RelativeDocumentMoniker": "Web_PYC\\Web.Config",
+              "ToolTip": "C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Web_PYC\\Web.Config",
+              "RelativeToolTip": "Web_PYC\\Web.Config",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAlwEQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-28T18:36:09.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Web_PYC\\Default.aspx",
+              "RelativeDocumentMoniker": "Web_PYC\\Default.aspx",
+              "ToolTip": "C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Web_PYC\\Default.aspx",
+              "RelativeToolTip": "Web_PYC\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-28T14:54:00.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Web_PYC\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Web_PYC\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Web_PYC\\Default.aspx.cs",
+              "RelativeToolTip": "Web_PYC\\Default.aspx.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:59:21.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlobalStyle.css",
+              "DocumentMoniker": "C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Web_PYC\\css\\GlobalStyle.css",
+              "RelativeDocumentMoniker": "Web_PYC\\css\\GlobalStyle.css",
+              "ToolTip": "C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\Web_PYC\\css\\GlobalStyle.css",
+              "RelativeToolTip": "Web_PYC\\css\\GlobalStyle.css",
+              "ViewState": "AgIAADIBAAAAAAAAAAAIwEgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T14:26:11.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\WS_PYC\\Web.config",
+              "RelativeDocumentMoniker": "WS_PYC\\Web.config",
+              "ToolTip": "C:\\Users\\joaquin.valencia\\Desktop\\spc_yo\\fuentes\\WS_PYC\\Web.config",
+              "RelativeToolTip": "WS_PYC\\Web.config",
+              "ViewState": "AgIAACIAAAAAAAAAAAAawCoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-28T18:19:12.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\jorge.estay\MANTENCION SPC\SVN SPC\binarios\Servicios</_PublishTargetUrl>
+    <History>True|2023-08-29T15:44:45.5273078Z;True|2023-08-24T11:25:59.8143615-04:00;True|2023-08-24T11:20:00.6662471-04:00;False|2023-08-24T10:30:42.6775196-04:00;False|2023-08-24T10:30:29.6679767-04:00;False|2023-08-24T10:21:21.7697653-04:00;False|2023-08-24T10:19:39.8846918-04:00;False|2023-08-24T10:19:02.5934936-04:00;True|2023-08-08T14:54:15.5911730-04:00;True|2023-08-08T14:45:23.2936315-04:00;True|2023-08-08T13:03:57.5943625-04:00;False|2023-08-08T13:02:46.8998749-04:00;False|2023-08-08T13:02:33.0338772-04:00;False|2023-08-08T13:02:24.6846362-04:00;False|2023-08-08T13:01:13.1473565-04:00;True|2023-08-08T12:58:10.5616357-04:00;False|2023-08-08T12:46:49.4215333-04:00;False|2023-08-08T11:37:06.2551668-04:00;False|2023-08-08T11:18:58.8885866-04:00;False|2023-08-07T16:09:37.0561872-04:00;False|2023-06-30T08:44:04.8874996-04:00;False|2023-06-20T14:51:44.5587035-04:00;False|2023-06-20T14:47:32.6516454-04:00;False|2023-06-20T14:45:13.5921742-04:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/PYC.Utilities.dll">
+      <publishTime>08/29/2023 11:28:41</publishTime>
+    </File>
+    <File Include="bin/PYC.Utilities.pdb">
+      <publishTime>08/29/2023 11:28:41</publishTime>
+    </File>
+    <File Include="bin/SPC.WebService.dll">
+      <publishTime>08/29/2023 11:28:45</publishTime>
+    </File>
+    <File Include="bin/SPC.WebService.pdb">
+      <publishTime>08/29/2023 11:28:45</publishTime>
+    </File>
+    <File Include="bin/SPC.WebService.xml">
+      <publishTime>08/29/2023 11:28:45</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>08/29/2023 11:44:43</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/25/2023 17:51:20</publishTime>
+    </File>
+    <File Include="WSSPC.asmx">
+      <publishTime>12/19/2019 16:21:04</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

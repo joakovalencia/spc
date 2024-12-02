@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://mop.cl/Servicio/Contratos/Mandantes" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://mop.cl/Servicio/Contratos/Mandantes" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://mop.cl/Servicio/Contratos/Mandantes">
+      <s:element name="BuscarContrato">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="codigoSafi" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="BuscarContratoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="BuscarContratoResult" type="tns:ArrayOfContratoEntidad" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfContratoEntidad">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ContratoEntidad" nillable="true" type="tns:ContratoEntidad" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ContratoEntidad">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="CodigoSafi" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DescripcionRegion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DescripcionComuna" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DescripcionProvincia" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="RutContratista" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MontoContrato" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MontoInicial" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MontoVigente" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="RutInspector" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="EstadoContrato" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TipoGasto" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PptoOficial" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AumentoDisminucion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FechaTermino" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Descripcion_Tipo_Registro" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Descripcion_Categoria" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Codigo_Bip" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Proceso" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Etapa" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Calificacion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="F_Recep_Provisional" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="F_Recep_Definitiva" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="F_Res_Liq_Contrato" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="F_Termino_Ito" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Ultimo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Objeto" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Sector_Destino" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Sub_Sec" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Tipo_Edificacion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Plazo_Adjudicado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Inicio_Legal" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="F_Res_Adjudicacion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Plazo_Vigente" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Inversion_Anno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Inversion_Acumulada" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Cantidad_Obra" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Observaciones_Contrato" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Av_Fin" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Av_Fis_Acum" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="BuscarContratoPorFiltro">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="regionDesde" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="regionHasta" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="BuscarContratoPorFiltroResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="BuscarContratoPorFiltroResult" type="tns:ArrayOfContratoEntidad" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="BuscarContratoSoapIn">
+    <wsdl:part name="parameters" element="tns:BuscarContrato" />
+  </wsdl:message>
+  <wsdl:message name="BuscarContratoSoapOut">
+    <wsdl:part name="parameters" element="tns:BuscarContratoResponse" />
+  </wsdl:message>
+  <wsdl:message name="BuscarContratoPorFiltroSoapIn">
+    <wsdl:part name="parameters" element="tns:BuscarContratoPorFiltro" />
+  </wsdl:message>
+  <wsdl:message name="BuscarContratoPorFiltroSoapOut">
+    <wsdl:part name="parameters" element="tns:BuscarContratoPorFiltroResponse" />
+  </wsdl:message>
+  <wsdl:portType name="BuscadorContratosMandantesSoap">
+    <wsdl:operation name="BuscarContrato">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Buscador de Contratos: Este servicio entrega la información de Contrato por código SAFI. &lt;/br&gt;&lt;/br&gt;Nota: El Cliente o el Aplicativo deben capturar las excepciones (Ejemplo. El campo codigoSafi no debe estar vacio)</wsdl:documentation>
+      <wsdl:input message="tns:BuscarContratoSoapIn" />
+      <wsdl:output message="tns:BuscarContratoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="BuscarContratoPorFiltro">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Buscador de Contratos por Filtro: Este servicio entrega la información de los contratos, filtrados por Región y Fecha de Inicio (en rangos desde hasta en ambos casos). &lt;/br&gt;&lt;/br&gt;Nota: El Cliente o el Aplicativo deben capturar las excepciones (Ejemplo. Todos los campos de filtro deben contener datos)</wsdl:documentation>
+      <wsdl:input message="tns:BuscarContratoPorFiltroSoapIn" />
+      <wsdl:output message="tns:BuscarContratoPorFiltroSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BuscadorContratosMandantesSoap" type="tns:BuscadorContratosMandantesSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="BuscarContrato">
+      <soap:operation soapAction="http://mop.cl/Servicio/Contratos/Mandantes/BuscarContrato" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarContratoPorFiltro">
+      <soap:operation soapAction="http://mop.cl/Servicio/Contratos/Mandantes/BuscarContratoPorFiltro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="BuscadorContratosMandantesSoap12" type="tns:BuscadorContratosMandantesSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="BuscarContrato">
+      <soap12:operation soapAction="http://mop.cl/Servicio/Contratos/Mandantes/BuscarContrato" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarContratoPorFiltro">
+      <soap12:operation soapAction="http://mop.cl/Servicio/Contratos/Mandantes/BuscarContratoPorFiltro" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="BuscadorContratosMandantes">
+    <wsdl:port name="BuscadorContratosMandantesSoap" binding="tns:BuscadorContratosMandantesSoap">
+      <soap:address location="http://wsinfoctomdcpyc.sdit.cl/InformacionContrato.asmx" />
+    </wsdl:port>
+    <wsdl:port name="BuscadorContratosMandantesSoap12" binding="tns:BuscadorContratosMandantesSoap12">
+      <soap12:address location="http://wsinfoctomdcpyc.sdit.cl/InformacionContrato.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

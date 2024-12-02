@@ -1,0 +1,109 @@
+C:\MOP\versionoriginal\fuentes\WS_PYC\bin\SPC.WebService.dll
+C:\MOP\versionoriginal\fuentes\WS_PYC\bin\SPC.WebService.pdb
+C:\MOP\versionoriginal\fuentes\WS_PYC\bin\SPC.WebService.xml
+C:\MOP\versionoriginal\fuentes\WS_PYC\bin\PYC.Utilities.dll
+C:\MOP\versionoriginal\fuentes\WS_PYC\bin\PYC.Utilities.pdb
+C:\MOP\versionoriginal\fuentes\WS_PYC\bin\PYC.Utilities.xml
+C:\MOP\versionoriginal\fuentes\WS_PYC\obj\Debug\ResolveAssemblyReference.cache
+C:\MOP\versionoriginal\fuentes\WS_PYC\obj\Debug\SPC.WebService.Resources.resources
+C:\MOP\versionoriginal\fuentes\WS_PYC\obj\Debug\WSSPC.vbproj.GenerateResource.Cache
+C:\MOP\versionoriginal\fuentes\WS_PYC\obj\Debug\SPC.WebService.dll
+C:\MOP\versionoriginal\fuentes\WS_PYC\obj\Debug\SPC.WebService.xml
+C:\MOP\versionoriginal\fuentes\WS_PYC\obj\Debug\SPC.WebService.pdb
+C:\jorge.estay\prueba bajada svn spc\fuentes\WS_PYC\bin\SPC.WebService.dll
+C:\jorge.estay\prueba bajada svn spc\fuentes\WS_PYC\bin\SPC.WebService.pdb
+C:\jorge.estay\prueba bajada svn spc\fuentes\WS_PYC\bin\SPC.WebService.xml
+C:\jorge.estay\prueba bajada svn spc\fuentes\WS_PYC\bin\PYC.Utilities.dll
+C:\jorge.estay\prueba bajada svn spc\fuentes\WS_PYC\bin\PYC.Utilities.pdb
+C:\jorge.estay\prueba bajada svn spc\fuentes\WS_PYC\bin\PYC.Utilities.xml
+C:\jorge.estay\prueba bajada svn spc\fuentes\WS_PYC\obj\Debug\ResolveAssemblyReference.cache
+C:\jorge.estay\prueba bajada svn spc\fuentes\WS_PYC\obj\Debug\SPC.WebService.Resources.resources
+C:\jorge.estay\prueba bajada svn spc\fuentes\WS_PYC\obj\Debug\WSSPC.vbproj.GenerateResource.Cache
+C:\jorge.estay\prueba bajada svn spc\fuentes\WS_PYC\obj\Debug\SPC.WebService.dll
+C:\jorge.estay\prueba bajada svn spc\fuentes\WS_PYC\obj\Debug\SPC.WebService.xml
+C:\jorge.estay\prueba bajada svn spc\fuentes\WS_PYC\obj\Debug\SPC.WebService.pdb
+C:\jorge.estay\TRABAJO SPC\SVN SPC\fuentes\WS_PYC\bin\SPC.WebService.dll
+C:\jorge.estay\TRABAJO SPC\SVN SPC\fuentes\WS_PYC\bin\SPC.WebService.pdb
+C:\jorge.estay\TRABAJO SPC\SVN SPC\fuentes\WS_PYC\bin\SPC.WebService.xml
+C:\jorge.estay\TRABAJO SPC\SVN SPC\fuentes\WS_PYC\bin\PYC.Utilities.dll
+C:\jorge.estay\TRABAJO SPC\SVN SPC\fuentes\WS_PYC\bin\PYC.Utilities.pdb
+C:\jorge.estay\TRABAJO SPC\SVN SPC\fuentes\WS_PYC\bin\PYC.Utilities.xml
+C:\jorge.estay\TRABAJO SPC\SVN SPC\fuentes\WS_PYC\obj\Debug\ResolveAssemblyReference.cache
+C:\jorge.estay\TRABAJO SPC\SVN SPC\fuentes\WS_PYC\obj\Debug\SPC.WebService.Resources.resources
+C:\jorge.estay\TRABAJO SPC\SVN SPC\fuentes\WS_PYC\obj\Debug\WSSPC.vbproj.GenerateResource.Cache
+C:\jorge.estay\TRABAJO SPC\SVN SPC\fuentes\WS_PYC\obj\Debug\SPC.WebService.dll
+C:\jorge.estay\TRABAJO SPC\SVN SPC\fuentes\WS_PYC\obj\Debug\SPC.WebService.xml
+C:\jorge.estay\TRABAJO SPC\SVN SPC\fuentes\WS_PYC\obj\Debug\SPC.WebService.pdb
+C:\jorge.estay\TRABAJO SPC\SVN SPC\SVN SPC\fuentes\WS_PYC\obj\Debug\ResolveAssemblyReference.cache
+C:\jorge.estay\TRABAJO SPC\SVN SPC\SVN SPC\fuentes\WS_PYC\obj\Debug\SPC.WebService.Resources.resources
+C:\jorge.estay\TRABAJO SPC\SVN SPC\SVN SPC\fuentes\WS_PYC\obj\Debug\WSSPC.vbproj.GenerateResource.Cache
+C:\jorge.estay\TRABAJO SPC\SVN SPC\SVN SPC\fuentes\WS_PYC\obj\Debug\SPC.WebService.dll
+C:\jorge.estay\TRABAJO SPC\SVN SPC\SVN SPC\fuentes\WS_PYC\obj\Debug\SPC.WebService.xml
+C:\jorge.estay\TRABAJO SPC\SVN SPC\SVN SPC\fuentes\WS_PYC\obj\Debug\SPC.WebService.pdb
+C:\jorge.estay\TRABAJO SPC\SVN SPC\SVN SPC\fuentes\WS_PYC\bin\SPC.WebService.dll
+C:\jorge.estay\TRABAJO SPC\SVN SPC\SVN SPC\fuentes\WS_PYC\bin\SPC.WebService.pdb
+C:\jorge.estay\TRABAJO SPC\SVN SPC\SVN SPC\fuentes\WS_PYC\bin\SPC.WebService.xml
+C:\jorge.estay\TRABAJO SPC\SVN SPC\SVN SPC\fuentes\WS_PYC\bin\PYC.Utilities.dll
+C:\jorge.estay\TRABAJO SPC\SVN SPC\SVN SPC\fuentes\WS_PYC\bin\PYC.Utilities.pdb
+C:\jorge.estay\TRABAJO SPC\SVN SPC\SVN SPC\fuentes\WS_PYC\bin\PYC.Utilities.xml
+C:\jorge.estay\MANTENCION SPC\SVN\fuentes\WS_PYC\bin\SPC.WebService.dll
+C:\jorge.estay\MANTENCION SPC\SVN\fuentes\WS_PYC\bin\SPC.WebService.pdb
+C:\jorge.estay\MANTENCION SPC\SVN\fuentes\WS_PYC\bin\SPC.WebService.xml
+C:\jorge.estay\MANTENCION SPC\SVN\fuentes\WS_PYC\bin\PYC.Utilities.dll
+C:\jorge.estay\MANTENCION SPC\SVN\fuentes\WS_PYC\bin\PYC.Utilities.pdb
+C:\jorge.estay\MANTENCION SPC\SVN\fuentes\WS_PYC\bin\PYC.Utilities.xml
+C:\jorge.estay\MANTENCION SPC\SVN\fuentes\WS_PYC\obj\Debug\ResolveAssemblyReference.cache
+C:\jorge.estay\MANTENCION SPC\SVN\fuentes\WS_PYC\obj\Debug\SPC.WebService.Resources.resources
+C:\jorge.estay\MANTENCION SPC\SVN\fuentes\WS_PYC\obj\Debug\WSSPC.vbproj.GenerateResource.Cache
+C:\jorge.estay\MANTENCION SPC\SVN\fuentes\WS_PYC\obj\Debug\SPC.WebService.dll
+C:\jorge.estay\MANTENCION SPC\SVN\fuentes\WS_PYC\obj\Debug\SPC.WebService.xml
+C:\jorge.estay\MANTENCION SPC\SVN\fuentes\WS_PYC\obj\Debug\SPC.WebService.pdb
+C:\jorge.estay\MANTENCION SPC\SVN SPC\fuentes\WS_PYC\bin\SPC.WebService.dll.config
+C:\jorge.estay\MANTENCION SPC\SVN SPC\fuentes\WS_PYC\bin\SPC.WebService.dll
+C:\jorge.estay\MANTENCION SPC\SVN SPC\fuentes\WS_PYC\bin\SPC.WebService.pdb
+C:\jorge.estay\MANTENCION SPC\SVN SPC\fuentes\WS_PYC\bin\SPC.WebService.xml
+C:\jorge.estay\MANTENCION SPC\SVN SPC\fuentes\WS_PYC\bin\PYC.Utilities.dll
+C:\jorge.estay\MANTENCION SPC\SVN SPC\fuentes\WS_PYC\bin\PYC.Utilities.pdb
+C:\jorge.estay\MANTENCION SPC\SVN SPC\fuentes\WS_PYC\bin\PYC.Utilities.xml
+C:\jorge.estay\MANTENCION SPC\SVN SPC\fuentes\WS_PYC\obj\Debug\WSSPC.vbproj.AssemblyReference.cache
+C:\jorge.estay\MANTENCION SPC\SVN SPC\fuentes\WS_PYC\obj\Debug\SPC.WebService.Resources.resources
+C:\jorge.estay\MANTENCION SPC\SVN SPC\fuentes\WS_PYC\obj\Debug\WSSPC.vbproj.GenerateResource.cache
+C:\jorge.estay\MANTENCION SPC\SVN SPC\fuentes\WS_PYC\obj\Debug\WSSPC.vbproj.CoreCompileInputs.cache
+C:\jorge.estay\MANTENCION SPC\SVN SPC\fuentes\WS_PYC\obj\Debug\WSSPC.vbproj.CopyComplete
+C:\jorge.estay\MANTENCION SPC\SVN SPC\fuentes\WS_PYC\obj\Debug\SPC.WebService.dll
+C:\jorge.estay\MANTENCION SPC\SVN SPC\fuentes\WS_PYC\obj\Debug\SPC.WebService.xml
+C:\jorge.estay\MANTENCION SPC\SVN SPC\fuentes\WS_PYC\obj\Debug\SPC.WebService.pdb
+C:\jorge.estay\MANTENCION SPC\01_PROGRAMACION_SPC\fuentes\WS_PYC\bin\SPC.WebService.dll.config
+C:\jorge.estay\MANTENCION SPC\01_PROGRAMACION_SPC\fuentes\WS_PYC\bin\SPC.WebService.dll
+C:\jorge.estay\MANTENCION SPC\01_PROGRAMACION_SPC\fuentes\WS_PYC\bin\SPC.WebService.pdb
+C:\jorge.estay\MANTENCION SPC\01_PROGRAMACION_SPC\fuentes\WS_PYC\bin\SPC.WebService.xml
+C:\jorge.estay\MANTENCION SPC\01_PROGRAMACION_SPC\fuentes\WS_PYC\bin\PYC.Utilities.dll
+C:\jorge.estay\MANTENCION SPC\01_PROGRAMACION_SPC\fuentes\WS_PYC\bin\PYC.Utilities.pdb
+C:\jorge.estay\MANTENCION SPC\01_PROGRAMACION_SPC\fuentes\WS_PYC\bin\PYC.Utilities.xml
+C:\jorge.estay\MANTENCION SPC\01_PROGRAMACION_SPC\fuentes\WS_PYC\obj\Debug\WSSPC.vbproj.AssemblyReference.cache
+C:\jorge.estay\MANTENCION SPC\01_PROGRAMACION_SPC\fuentes\WS_PYC\obj\Debug\SPC.WebService.Resources.resources
+C:\jorge.estay\MANTENCION SPC\01_PROGRAMACION_SPC\fuentes\WS_PYC\obj\Debug\WSSPC.vbproj.GenerateResource.cache
+C:\jorge.estay\MANTENCION SPC\01_PROGRAMACION_SPC\fuentes\WS_PYC\obj\Debug\WSSPC.vbproj.CoreCompileInputs.cache
+C:\jorge.estay\MANTENCION SPC\01_PROGRAMACION_SPC\fuentes\WS_PYC\obj\Debug\WSSPC.vbproj.CopyComplete
+C:\jorge.estay\MANTENCION SPC\01_PROGRAMACION_SPC\fuentes\WS_PYC\obj\Debug\SPC.WebService.dll
+C:\jorge.estay\MANTENCION SPC\01_PROGRAMACION_SPC\fuentes\WS_PYC\obj\Debug\SPC.WebService.xml
+C:\jorge.estay\MANTENCION SPC\01_PROGRAMACION_SPC\fuentes\WS_PYC\obj\Debug\SPC.WebService.pdb
+C:\Users\joaquin.valencia\Desktop\spc_yo\fuentes\WS_PYC\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\joaquin.valencia\Desktop\spc_yo\fuentes\WS_PYC\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\joaquin.valencia\Desktop\spc_yo\fuentes\WS_PYC\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\joaquin.valencia\Desktop\spc_yo\fuentes\WS_PYC\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\joaquin.valencia\Desktop\spc_yo\fuentes\WS_PYC\bin\SPC.WebService.dll.config
+C:\Users\joaquin.valencia\Desktop\spc_yo\fuentes\WS_PYC\bin\SPC.WebService.dll
+C:\Users\joaquin.valencia\Desktop\spc_yo\fuentes\WS_PYC\bin\SPC.WebService.pdb
+C:\Users\joaquin.valencia\Desktop\spc_yo\fuentes\WS_PYC\bin\SPC.WebService.xml
+C:\Users\joaquin.valencia\Desktop\spc_yo\fuentes\WS_PYC\bin\PYC.Utilities.dll
+C:\Users\joaquin.valencia\Desktop\spc_yo\fuentes\WS_PYC\bin\PYC.Utilities.pdb
+C:\Users\joaquin.valencia\Desktop\spc_yo\fuentes\WS_PYC\bin\PYC.Utilities.xml
+C:\Users\joaquin.valencia\Desktop\spc_yo\fuentes\WS_PYC\obj\Debug\WSSPC.vbproj.AssemblyReference.cache
+C:\Users\joaquin.valencia\Desktop\spc_yo\fuentes\WS_PYC\obj\Debug\SPC.WebService.Resources.resources
+C:\Users\joaquin.valencia\Desktop\spc_yo\fuentes\WS_PYC\obj\Debug\WSSPC.vbproj.GenerateResource.cache
+C:\Users\joaquin.valencia\Desktop\spc_yo\fuentes\WS_PYC\obj\Debug\WSSPC.vbproj.CoreCompileInputs.cache
+C:\Users\joaquin.valencia\Desktop\spc_yo\fuentes\WS_PYC\obj\Debug\WSSPC.vbproj.Up2Date
+C:\Users\joaquin.valencia\Desktop\spc_yo\fuentes\WS_PYC\obj\Debug\SPC.WebService.dll
+C:\Users\joaquin.valencia\Desktop\spc_yo\fuentes\WS_PYC\obj\Debug\SPC.WebService.xml
+C:\Users\joaquin.valencia\Desktop\spc_yo\fuentes\WS_PYC\obj\Debug\SPC.WebService.pdb
